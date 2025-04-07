@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("chuska")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbe99c287383c516b38abeee232269f4f45cc7c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("chuska")]
 [assembly: System.Reflection.AssemblyTitleAttribute("chuska")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
